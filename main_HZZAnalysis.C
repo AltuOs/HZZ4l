@@ -28,7 +28,7 @@ TChain *main_HZZAnalysis(int proof,TString s)
   // Currently 2 options for MC (2,3) and 1 for data (1) which can be run in parallel
   //***************************************************************************************************//
 
-  TChain *f = new TChain("mini");
+  TChain *f; // = new TChain("mini");
     
   if (proof == 1)  TProof::Open("");
   
