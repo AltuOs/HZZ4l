@@ -49,44 +49,44 @@ class HZZAnalysis : public TSelector {/*Herencia de la clase TSelector*/
   Int_t           runNumber;
   Int_t           eventNumber;
   Int_t           channelNumber;
-  Float_t         mcWeight;
-  Float_t         scaleFactor_PILEUP;
-  Float_t         scaleFactor_ELE;
-  Float_t         scaleFactor_MUON;
+  Float_t         mcWeight; //
+  Float_t         scaleFactor_PILEUP; //
+  Float_t         scaleFactor_ELE; //
+  Float_t         scaleFactor_MUON; //
   Float_t         scaleFactor_PHOTON;
   Float_t         scaleFactor_TAU;
   Float_t         scaleFactor_BTAG;
-  Float_t         scaleFactor_LepTRIGGER;
+  Float_t         scaleFactor_LepTRIGGER; //
   Float_t         scaleFactor_PhotonTRIGGER;
   Float_t         scaleFactor_TauTRIGGER;
   Float_t         scaleFactor_DiTauTRIGGER;
-  Bool_t          trigE;
-  Bool_t          trigM;
+  Bool_t          trigE; //
+  Bool_t          trigM; //
   Bool_t          trigP;
   Bool_t          trigT;
   Bool_t          trigDT;
-  UInt_t          lep_n;
+  UInt_t          lep_n; //
   vector<bool>    *lep_truthMatched;
   vector<bool>    *lep_trigMatched;
-  vector<float>   *lep_pt;
-  vector<float>   *lep_eta;
-  vector<float>   *lep_phi;
-  vector<float>   *lep_E;
-  vector<float>   *lep_z0;
-  vector<int>     *lep_charge;
-  vector<unsigned int> *lep_type;
+  vector<float>   *lep_pt; //
+  vector<float>   *lep_eta; //
+  vector<float>   *lep_phi; //
+  vector<float>   *lep_E; //
+  vector<float>   *lep_z0; //
+  vector<int>     *lep_charge; //
+  vector<unsigned int> *lep_type; //
   vector<bool>    *lep_isTightID;
-  vector<float>   *lep_ptcone30;
-  vector<float>   *lep_etcone20;
-  vector<float>   *lep_trackd0pvunbiased;
-  vector<float>   *lep_tracksigd0pvunbiased;
+  vector<float>   *lep_ptcone30; //
+  vector<float>   *lep_etcone20; //
+  vector<float>   *lep_trackd0pvunbiased; //
+  vector<float>   *lep_tracksigd0pvunbiased; //
   Float_t         met_et;
   Float_t         met_phi;
-  UInt_t          jet_n;
-  vector<float>   *jet_pt;
-  vector<float>   *jet_eta;
+  UInt_t          jet_n; //
+  vector<float>   *jet_pt; //
+  vector<float>   *jet_eta; //
   vector<float>   *jet_phi;
-  vector<float>   *jet_E;
+  vector<float>   *jet_E; //
   vector<float>   *jet_jvt;
   vector<int>     *jet_trueflav;
   vector<bool>    *jet_truthMatched;
