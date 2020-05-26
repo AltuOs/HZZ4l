@@ -8,19 +8,18 @@
 #include "TString.h"
 
 
-TChain *main_HZZAnalysis(int proof, TString s)
+TChain *main_HZZAnalysis(int proof,TString s)
 {
   // path to your local directory *or* URL, please change the default one!
   /* Local path example */
   //TString path  = "/eos/project/a/atlas-outreach/projects/open-data/OpenDataTuples/renamedLargeRJets/4lep/";
   //TString path2 = "/eos/project/a/atlas-outreach/projects/open-data/OpenDataTuples/renamedLargeRJets/2lep/";
   
-  TString path  = "../4lep/";
+  TString path  = "4lep/";
     
   /* The URL to the ATLAS Open Data website repository */
-  //TString path  = "http://www.universidad.ch/ATLAS/outreach/open-data-2020/4lep/";
-  //TString path2 = "http://www.universidad.ch/ATLAS/outreach/open-data-2020/2lep/"; 
-  TString path2 = "https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/2lep/";
+  TString path2 = "/media/sf_carpeta_compartida_MV/2lep/";
+  //TString path2 = "https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/2lep/";
     
   
   //***************************************************************************************************//
@@ -29,7 +28,7 @@ TChain *main_HZZAnalysis(int proof, TString s)
   // Currently 2 options for MC (2,3) and 1 for data (1) which can be run in parallel
   //***************************************************************************************************//
 
-  TChain *f = new TChain("mini");
+  TChain *f; // = new TChain("mini");
     
   if (proof == 1)  TProof::Open("");
   
