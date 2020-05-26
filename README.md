@@ -8,4 +8,6 @@ El siguiente repositorio consta de:
 
 Ha entrado en desuso por lo extenso, y como alternativa surgió una nueva propuesta contenida en [Nueva propuesta](https://github.com/AltuOs/HZZ4l/tree/master/Nueva_propuesta).
 
-- **[Test_Analisys.ipynb](https://github.com/AltuOs/HZZ4l/blob/master/Nueva_propuesta/Test_Analisys.ipynb):** Éste Notebook intenta enlazar cabeceras (.h) y funciones (.cpp) (externas) escritas en C/C++ al análisis del decaimiento en estudio dentro del Kernel de ROOT C++.
+- **[Test_Analisys.ipynb](https://github.com/AltuOs/HZZ4l/blob/master/Nueva_propuesta/Test_Analisys.ipynb):** Éste Notebook intenta enlazar cabeceras (.h) y adaptar el análisis (todo en local) escritas en C/C++ al análisis del decaimiento en estudio dentro del Kernel de ROOT C++.
+
+### No hay recepción de data en el Notebook.
