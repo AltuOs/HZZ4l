@@ -16,9 +16,10 @@ TChain *main_HZZAnalysis(int proof,TString s)
   //TString path2 = "/eos/project/a/atlas-outreach/projects/open-data/OpenDataTuples/renamedLargeRJets/2lep/";
   
   TString path  = "4lep/";
+  TString path2 = "/media/sf_carpeta_compartida_MV/2lep/";
     
   /* The URL to the ATLAS Open Data website repository */
-  TString path2 = "/media/sf_carpeta_compartida_MV/2lep/";
+  //TString path = "https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/4lep/";
   //TString path2 = "https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/2lep/";
     
   
