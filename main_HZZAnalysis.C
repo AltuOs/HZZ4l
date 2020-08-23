@@ -15,7 +15,7 @@ TChain *main_HZZAnalysis(int proof,TString s)
   //TString path  = "/eos/project/a/atlas-outreach/projects/open-data/OpenDataTuples/renamedLargeRJets/4lep/";
   //TString path2 = "/eos/project/a/atlas-outreach/projects/open-data/OpenDataTuples/renamedLargeRJets/2lep/";
   
-  TString path  = "4lep/";
+  TString path  = "/home/student/HZZ4l/4lep/";
   TString path2 = "/media/sf_carpeta_compartida_MV/2lep/";
     
   /* The URL to the ATLAS Open Data website repository */
