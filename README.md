@@ -4,7 +4,7 @@
 
 El siguiente repositorio consta de:
 
-- **welcome.sh** Primero configure el código usando: ./welcome.sh o source welcome.sh
+- **welcome.sh** Para general/borrar folders donde se almacenarán los datos analizados e histogramas: ./welcome.sh o source welcome.sh
 - **[Analysis](https://github.com/AltuOs/HZZ4l/tree/p7/Analysis)**
 
 
