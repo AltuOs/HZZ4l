@@ -1,3 +1,4 @@
+#!/bin/bash
 #######################################################
 #                                                     # 
 # Welcome to ATLAS 13 TeV Open Data C++ framework !!! #
@@ -19,10 +20,10 @@ analysisCollection=("HZZAnalysis")
 if (( $choice == 1 )) ; then
   # for i in {0..11} ; do
     # analysisName=${analysisCollection[$i]}
-    # echo "Creating the directory: Analysis/${analysisName}/Output_${analysisName}"
+    # echo "Creating the directory for the Plotting code: Analysis/${analysisName}/Output_${analysisName}"
     # mkdir Analysis/${analysisName}/Output_${analysisName}
     analysisName=${analysisCollection[0]}
-    echo "Creating the directory: Analysis/Output_${analysisName}"
+    echo "Creating the directory for the Plotting code: Analysis/Output_${analysisName}"
     mkdir Analysis/Output_${analysisName}
   # done
 
@@ -33,10 +34,10 @@ if (( $choice == 1 )) ; then
 elif  (( $choice == 0 )) ; then
   # for i in {0..11} ; do
     # analysisName=${analysisCollection[$i]}
-    # echo "Removing the directory: Analysis/${analysisName}/Output_${analysisName}"
+    # echo "Removing the directory for the Plotting code: Analysis/${analysisName}/Output_${analysisName}"
     # rm -rf Analysis/${analysisName}/Output_${analysisName}
     analysisName=${analysisCollection[0]}
-    echo "Removing the directory: Analysis/Output_${analysisName}"
+    echo "Removing the directory for the Plotting code: Analysis/Output_${analysisName}"
     rm -rf Analysis/Output_${analysisName}
   # done
 
