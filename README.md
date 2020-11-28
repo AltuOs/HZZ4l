@@ -4,10 +4,14 @@
 
 El siguiente repositorio consta de:
 
-- **[cpp_H_ZZ_4l_channel_analysis.ipynb](https://github.com/AltuOs/HZZ4l/blob/master/cpp_H_ZZ_4l_channel_analysis.ipynb):** En el cual se intenta reducir a un solo Notebook con Kernel ROOT C++ la estructura del programa original.
+- **welcome.sh** Para general/borrar folders donde se almacenarán los datos analizados e histogramas: ./welcome.sh o source welcome.sh
+- **[Analysis](https://github.com/AltuOs/HZZ4l/tree/p7/Analysis)**
 
-Ha entrado en desuso por lo extenso, y como alternativa surgió una nueva propuesta contenida en [Nueva propuesta](https://github.com/AltuOs/HZZ4l/tree/master/Nueva_propuesta).
 
-- **[Test_Analisys.ipynb](https://github.com/AltuOs/HZZ4l/blob/master/Nueva_propuesta/Test_Analisys.ipynb):** Éste Notebook intenta enlazar cabeceras (.h) y adaptar el análisis (todo en local) escritas en C/C++ al análisis del decaimiento en estudio dentro del Kernel de ROOT C++.
+    - **[Analysis_beta.ipynb](https://github.com/AltuOs/HZZ4l/blob/p7/Analysis/Analysis_beta.ipynb)** Contiene la versión en construcción de HZZAnalysis. :wrench: :wrench:
+    - **clean.sh** Para limpiar todas las bibliotecas compartidas: ./clean.sh o source clean.sh
+- **[Plotting](https://github.com/AltuOs/HZZ4l/tree/p7/Plotting)**
 
-### No hay recepción de data en el Notebook.
+
+    - **[Plotting_beta.ipynb](https://github.com/AltuOs/HZZ4l/blob/p7/Plotting/Plotting_beta.ipynb)** Contiene la versión en construcción de Plotting. :wrench: :wrench:
+    - **clean.sh** Para limpiar todas las bibliotecas compartidas: ./clean.sh o source clean.sh
