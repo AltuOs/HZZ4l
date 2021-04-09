@@ -15,6 +15,8 @@ El siguiente repositorio consta de:
 
     - **[Plotting_beta.ipynb](https://github.com/AltuOs/HZZ4l/blob/master/Plotting/Plotting_beta.ipynb)** Contiene la versión en construcción de Plotting. :wrench: :wrench:
     - **clean.sh** Para limpiar todas las bibliotecas compartidas: ./clean.sh o source clean.sh
-- **[Local datasets]()**
+- **[Local datasets](https://github.com/AltuOs/HZZ4l/tree/master/Local_datasets)**
 
-    - **[Datasets_download.ipynb]()** Descarga del conjunto datos (datos y simulaciones Monte Carlo) para su posterior uso en local de ser necesario. Recomendación: Ejecutar sólo una vez. :wrench: :wrench:
+    - **[Datasets_download.ipynb](https://github.com/AltuOs/HZZ4l/blob/master/Local_datasets/Datasets_download.ipynb)** Descarga del conjunto datos (datos y simulaciones Monte Carlo) para su posterior uso en local de ser necesario. Recomendación: Ejecutar sólo una vez. :wrench: :wrench:
+
+- **[Decay width](https://github.com/AltuOs/HZZ4l/blob/master/Decay_width.ipynb)** Estudio del ancho de decaimiento y vida média en el canal de decaimiento H->ZZ*->4l. :wrench: :wrench:
