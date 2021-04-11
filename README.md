@@ -19,4 +19,4 @@ El siguiente repositorio consta de:
 
     - **[Datasets_download.ipynb](https://github.com/AltuOs/HZZ4l/blob/master/Local_datasets/Datasets_download.ipynb)** Descarga del conjunto datos (datos y simulaciones Monte Carlo) para su posterior uso en local de ser necesario. Recomendación: Ejecutar sólo una vez.
 
-- **[Decay width](https://github.com/AltuOs/HZZ4l/blob/master/Decay_width.ipynb)** Estudio del ancho de decaimiento y vida média en el canal de decaimiento H->ZZ*->4l. :wrench: :wrench:
+- **[Decay width](https://github.com/AltuOs/HZZ4l/blob/master/Decay_width.ipynb)** Estudio del ancho de decaimiento y vida média en el canal de decaimiento H->ZZ*->4l. Es necesario haber ejecutado antes "Analysis_beta". :wrench: :wrench:
