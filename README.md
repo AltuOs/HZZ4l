@@ -4,11 +4,11 @@
 
 El siguiente repositorio consta de:
 
-- **welcome.sh** Para general/borrar folders donde se almacenarán los datos analizados e histogramas: ./welcome.sh o source welcome.sh
-
 - **[Local datasets](https://github.com/AltuOs/HZZ4l/tree/master/Local_datasets)**
 
     - **[Datasets_download.ipynb](https://github.com/AltuOs/HZZ4l/blob/master/Local_datasets/Datasets_download.ipynb)** Descarga del conjunto datos (datos y simulaciones Monte Carlo) para su posterior uso en local de ser necesario. Recomendación: Ejecutar sólo una vez.
+
+- **welcome.sh** Para general/borrar folders donde se almacenarán los datos analizados e histogramas: ./welcome.sh o source welcome.sh
 
 - **[Analysis](https://github.com/AltuOs/HZZ4l/tree/master/Analysis)**
 
