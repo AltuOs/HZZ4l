@@ -4,7 +4,7 @@
 
 El siguiente repositorio consta de:
 
-- **[Local datasets](https://github.com/AltuOs/HZZ4l/tree/master/Local_datasets) (Herramienta de ejecución opcional)** 
+- **[Local datasets](https://github.com/AltuOs/HZZ4l/tree/master/Local_datasets)** (Herramienta de ejecución opcional)
 
     - **[Datasets_download.ipynb](https://github.com/AltuOs/HZZ4l/blob/master/Local_datasets/Datasets_download.ipynb)** Descarga del conjunto datos (datos y simulaciones Monte Carlo) para su posterior uso en local de ser necesario. Recomendación: Ejecutar sólo una vez.
 
