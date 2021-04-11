@@ -1,4 +1,4 @@
-# $$H\RIGHTARROW ZZ^{(*)}\RIGHTARROW 4L$$ Channel Analysis
+# H->ZZ*->4l Channel Analysis
 
 ### Versiones prueba. :wrench: :wrench:
 
@@ -20,4 +20,4 @@ El siguiente repositorio consta de:
     - **[Plotting_beta.ipynb](https://github.com/AltuOs/HZZ4l/blob/master/Plotting/Plotting_beta.ipynb)** Contiene la versión en construcción de Plotting. :wrench: :wrench:
     - **clean.sh** Para limpiar todas las bibliotecas compartidas: ./clean.sh o source clean.sh
     - 
-- **[Decay width](https://github.com/AltuOs/HZZ4l/blob/master/Decay_width.ipynb)** Estudio del ancho de decaimiento y vida média en el canal de decaimiento $$H\RIGHTARROW ZZ^{(*)}\RIGHTARROW 4L$$. Es necesario haber ejecutado antes el análisis. :wrench: :wrench:
+- **[Decay width](https://github.com/AltuOs/HZZ4l/blob/master/Decay_width.ipynb)** Estudio del ancho de decaimiento y vida média en el canal de decaimiento H->ZZ*->4l. Es necesario haber ejecutado antes el análisis. :wrench: :wrench:
