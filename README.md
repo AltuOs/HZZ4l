@@ -1,4 +1,4 @@
-# Propuesta de optimización al análisis computacional del bosón de Higgs en el canal de decaimiento H->ZZ*->4l a s^(1/2)=13 TeV utilizando ATLAS Open Data
+# Propuesta de optimización al análisis computacional del bosón de Higgs en el canal de decaimiento H->ZZ*->4l a $$\sqrt{s}=13 TeV$$ utilizando ATLAS Open Data
 
 ### Versiones prueba. :construction_worker: :wrench: :wrench:
 
@@ -12,12 +12,12 @@ El siguiente repositorio consta de:
 
 - **[Analysis](https://github.com/AltuOs/HZZ4l/tree/master/Analysis)**
 
-    - **[Analysis_beta.ipynb](https://github.com/AltuOs/HZZ4l/blob/master/Analysis/Analysis_beta.ipynb)** Contiene la versión en construcción de HZZAnalysis. :wrench: :wrench:
+    - **[Analysis.ipynb](https://github.com/AltuOs/HZZ4l/blob/master/Analysis/Analysis.ipynb)** Contiene la versión en construcción de HZZAnalysis. :wrench: :wrench:
     - **clean.sh** Para limpiar todas las bibliotecas compartidas: ./clean.sh o source clean.sh
 - **[Plotting](https://github.com/AltuOs/HZZ4l/tree/master/Plotting)**
 
 
-    - **[Plotting_beta.ipynb](https://github.com/AltuOs/HZZ4l/blob/master/Plotting/Plotting_beta.ipynb)** Contiene la versión en construcción de Plotting. :wrench: :wrench:
+    - **[Plotting.ipynb](https://github.com/AltuOs/HZZ4l/blob/master/Plotting/Plotting.ipynb)** Contiene la versión en construcción de Plotting. :wrench: :wrench:
     - **clean.sh** Para limpiar todas las bibliotecas compartidas: ./clean.sh o source clean.sh
     - 
 - **[Decay width](https://github.com/AltuOs/HZZ4l/blob/master/Decay_width.ipynb)** Estudio del ancho de decaimiento y vida média en el canal de decaimiento H->ZZ*->4l. Es necesario haber ejecutado antes el análisis. :wrench: :wrench:
