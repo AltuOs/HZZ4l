@@ -1,5 +1,13 @@
 # Propuesta de optimización al análisis computacional del bosón de Higgs en el canal de decaimiento H->ZZ*->4l a sqrt(s) = 13 TeV utilizando ATLAS Open Data
 
+Authors: ATLAS Collaboration (2019)
+
+Taken from: https://github.com/atlas-outreach-data-tools/atlas-outreach-cpp-framework-13tev
+
+Licenser under: European Union Public License 1.1 https://github.com/atlas-outreach-data-tools/atlas-outreach-cpp-framework-13tev/blob/master/LICENSE
+
+Modifications by: Oscar Altuve Pabón (University of the Andes (Venezuela) | ULA · Department of Physics 2020)
+
 ### Versiones prueba. :construction_worker: :wrench: :wrench:
 
 El siguiente repositorio consta de:
