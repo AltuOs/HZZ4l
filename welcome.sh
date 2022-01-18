@@ -29,6 +29,9 @@ if (( $choice == 1 )) ; then
 
   echo "creating the output directory for the Plotting code: Plotting/histograms"
   mkdir Plotting/histograms
+  
+  echo "creating the output directory for the Optimization code: Optimization/histograms"
+  mkdir Optimization/histograms
 
 # removing everything within directories
 elif  (( $choice == 0 )) ; then
@@ -43,6 +46,9 @@ elif  (( $choice == 0 )) ; then
 
   echo "Removing the output directory for the Plotting code: Plotting/histograms"
   rm -rf Plotting/histograms
+  
+  echo "Removing the output directory for the Optimization code: Optimization/histograms"
+  rm -rf Optimization/histograms
 
 else
      echo "Invalid choice!"
