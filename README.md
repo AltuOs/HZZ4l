@@ -51,7 +51,7 @@ In this study we focused in the range $110 - 135\, GeV$ in which the events asso
 
 **Keywords:** Standard Model, Higgs boson, 4-lepton, ATLAS Open Data, Jupyter Notebook, ROOT C++, maximum likelihood estimation, invariant mass, width decay.
 
-# El repositorio se estructura de la siguiente manera:
+## El repositorio se estructura de la siguiente manera:
 
 - **[Local datasets](https://github.com/AltuOs/HZZ4l/tree/master/Local_datasets)** (Herramienta de ejecución opcional)
 
