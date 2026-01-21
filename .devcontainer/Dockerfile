@@ -1,5 +1,5 @@
 # Usamos la imagen oficial de ROOT (basada en Ubuntu)
-FROM rootproject/root:latest-ubuntu22.04
+FROM rootproject/root
 
 # Evitar diálogos interactivos durante la instalación
 ENV DEBIAN_FRONTEND=noninteractive
