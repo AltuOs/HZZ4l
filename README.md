@@ -18,8 +18,11 @@ LinkedIn: [altuos](https://www.linkedin.com/in/altuos/)
 ### Propuesta de optimización al análisis computacional del bosón de Higgs en el canal de decaimiento $H\rightarrow ZZ^{*}\rightarrow 4\ell$ a $\sqrt{s} = 13\, TeV$ utilizando ATLAS Open Data
 
 **Autor:** Oscar Alejandro Altuve Pabón
+
 **Tutor:** Dr. Arturo Sánchez
+
 **Tutor Académico:** Prof. Alberto Patiño
+
 Mérida-Venezuela, Febrero de 2022
 
 **Resumen**
@@ -34,8 +37,11 @@ En este orden de ideas, se estudió el rango 110 - 135 GeV en el cual se concent
 ### Optimization proposal to computational analysis of the Higgs boson in the decay channel $H\rightarrow ZZ^{*}\rightarrow 4\ell$ at $\sqrt{s} = 13\, TeV$ using ATLAS Open Data
 
 **Author:** Oscar Alejandro Altuve Pabón
+
 **Tutor:** Dr. Arturo Sánchez
+
 **Academic Tutor:** Prof. Alberto Patiño
+
 Merida-Venezuela, February 2022
 
 **Abstract**
@@ -45,9 +51,7 @@ In this study we focused in the range $110 - 135 GeV$ in which the events associ
 
 **Keywords:** Standard Model, Higgs boson, 4-lepton, ATLAS Open Data, Jupyter Notebook, ROOT C++, maximum likelihood estimation, invariant mass, width decay.
 
-
-
-## El repositorio se estructura de la siguiente manera:
+# El repositorio se estructura de la siguiente manera:
 
 - **[Local datasets](https://github.com/AltuOs/HZZ4l/tree/master/Local_datasets)** (Herramienta de ejecución opcional)
 
