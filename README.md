@@ -57,7 +57,7 @@ In this study we focused in the range $110 - 135\, GeV$ in which the events asso
 
     - **[Datasets_download.ipynb](https://github.com/AltuOs/HZZ4l/blob/master/Local_datasets/Datasets_download.ipynb)** Descarga del conjunto datos (datos y simulaciones Monte Carlo) para su posterior uso en local de ser necesario. Recomendación: Ejecutar sólo una vez.
 
-- **welcome.sh** Para general/borrar folders donde se almacenarán los datos analizados e histogramas: ./welcome.sh o source welcome.sh
+- **welcome.sh** Para generar/borrar folders donde se almacenarán los datos analizados e histogramas: ./welcome.sh o source welcome.sh
 
 - **[Analysis](https://github.com/AltuOs/HZZ4l/tree/master/Analysis)**
 
