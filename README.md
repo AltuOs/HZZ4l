@@ -12,7 +12,7 @@ Licencia: European Union Public License 1.1
 #### Autoría de la propuesta de optimización
 Las modificaciones, adaptaciones y propuestas de optimización incluidas en este repositorio fueron realizadas por Oscar Altuve Pabon (Universidad de Los Andes, Venezuela · Departamento de Física 2022) bajo la supervición del Dr. Arturo Sánchez y el Prof. Alberto Patiño.
 
-LinkedIn: [altuos](https://www.linkedin.com/in/altuos/)
+**LinkedIn:** [Oscar Altuve Pabon](https://www.linkedin.com/in/altuos/)
 
 ---
 ### Propuesta de optimización al análisis computacional del bosón de Higgs en el canal de decaimiento $H\rightarrow ZZ^{*}\rightarrow 4\ell$ a $\sqrt{s} = 13\, TeV$ utilizando ATLAS Open Data
