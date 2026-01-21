@@ -9,9 +9,10 @@
         "python.defaultInterpreterPath": "/usr/bin/python3"
       },
       "extensions": [
-        "ms-toolsai.jupyter",
-        "ms-vscode.cpptools",
-        "ms-python.python"
+        "ms-toolsai.jupyter",              // Soporte para Notebooks
+        "ms-vscode.cpptools-extension-pack", // El Pack completo de C++
+        "ms-python.python",                // Soporte base de Python
+        "ms-vscode.cmake-tools"            // (Opcional) A veces el pack no lo activa solo
       ]
     }
   },
