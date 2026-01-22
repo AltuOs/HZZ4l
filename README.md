@@ -59,7 +59,7 @@ Proponer una optimización al análisis computacional del bosón de Higgs en el 
 
     ATLAS Collaboration (2020). ATLAS 13 TeV samples collection at least four leptons (electron or muon), for 2020 Open Data release. CERN Open Data Portal. DOI:[10.7483/OPENDATA.ATLAS.2Y1T.TLGL](http://doi.org/10.7483/OPENDATA.ATLAS.2Y1T.TLGL).
 
-- **welcome.sh** Para generar/borrar folders donde se almacenarán los datos analizados e histogramas: ./welcome.sh o source welcome.sh
+- **welcome.sh** Para generar/borrar directorios donde se almacenarán los datos analizados e histogramas: ./welcome.sh o source welcome.sh
 
 - **[Analysis](https://github.com/AltuOs/HZZ4l/tree/master/Analysis)**
 
