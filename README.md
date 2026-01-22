@@ -1,4 +1,4 @@
-# Propuesta de optimización al análisis computacional del bosón de Higgs en el canal de decaimiento $H\rightarrow ZZ^{*}\rightarrow 4\ell$ a $\sqrt{s} = 13\, TeV$ utilizando ATLAS Open Data
+# Propuesta de optimización al análisis computacional del bosón de Higgs en el canal de decaimiento $H\rightarrow ZZ^{*}\rightarrow 4\ell$ a $\sqrt{s} = 13 TeV$ utilizando ATLAS Open Data
 
 Este repositorio documenta, preserva y facilita el acceso a la propuesta de optimización desarrollada en el marco de la tesis de licenciatura titulada “Propuesta de optimización al análisis computacional del bosón de Higgs en el canal de decaimiento $H\rightarrow ZZ^{*}\rightarrow 4\ell$ a $\sqrt{s} = 13 TeV$ utilizando ATLAS Open Data”, defendida el **1 de febrero de 2022** como requisito para optar al título de **Licenciado en Física**.
 
