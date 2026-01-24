@@ -52,7 +52,7 @@ Proponer una optimización al análisis computacional del bosón de Higgs en el 
 
     - **[Datasets_download.ipynb](https://github.com/AltuOs/HZZ4l/blob/master/Local_datasets/Datasets_download.ipynb)** Descarga del conjunto de datos (datos reales y simulaciones Monte Carlo) para su uso local en caso de ser necesario. Recomendación: ejecutar este proceso una sola vez.
 
-    ![Colecciones de datos para dos y cuatro leptones en el estado final empleados en los análisis.](img/esq_6.png)
+    ![Colecciones de datos para dos y cuatro leptones en el estado final empleados en los análisis.](img/esq_2.png)
     **Fig.** Colecciones de datos para dos y cuatro leptones en el estado final empleados en los análisis.
 
     ATLAS Collaboration (2020). ATLAS 13 TeV samples collection with at least two leptons (electron or muon), for 2020 Open Data release. CERN Open Data Portal. DOI:[10.7483/OPENDATA.ATLAS.GQ1W.I9VI](http://doi.org/10.7483/OPENDATA.ATLAS.GQ1W.I9VI).
