@@ -1,3 +1,19 @@
+// -----------------------------------------------------------------------------
+// Derivative work notice
+// -----------------------------------------------------------------------------
+
+// Copyright (c) 2021–2025 Oscar Altuve
+//
+// This file is part of a derivative work based on the original:
+// ATLAS Open Data 13 TeV analysis C++ framework (CERN, 2018)
+//
+// Modifications and adaptations by Oscar Alejandro Altuve Pabón
+// in the context of the undergraduate thesis:
+// “Propuesta de optimización al análisis computacional del bosón de Higgs
+//  en el canal de decaimiento H → ZZ* → 4ℓ a √s = 13 TeV utilizando ATLAS Open Data”
+//
+// Distributed under the European Union Public Licence (EUPL) v1.1 or later.
+
 //////////////////////////////////////////////////
 #ifndef PLOTTING_H
 #define PLOTTING_H

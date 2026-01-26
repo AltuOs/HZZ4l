@@ -110,3 +110,27 @@ Los histogramas generados se guardarán en la carpeta ``histograms/``.
 Las salidas correspondientes también se almacenarán en ``histograms/``.
 
 Si se desea repetir alguno de los procesos, pueden utilizarse los scripts ``clean.sh`` disponibles en cada directorio para limpiar los resultados previos.
+
+## Licencia y Atribución
+
+Este repositorio contiene una obra derivada del software original:
+
+**ATLAS Open Data 13 TeV analysis C++ framework**  
+Copyright (c) 2018 CERN  
+Repositorio original: [https://github.com/atlas-outreach-data-tools/atlas-outreach-cpp-framework-13tev](https://github.com/atlas-outreach-data-tools/atlas-outreach-cpp-framework-13tev/tree/402cf2afda53e630f6fe5580e53128f39b19daf2)
+
+Las modificaciones, adaptaciones y mejoras incluidas en este proyecto fueron desarrolladas por  
+**Oscar Altuve (2021–2025)**  
+como parte de la tesis de licenciatura:
+
+*“Propuesta de optimización al análisis computacional del bosón de Higgs en el canal de decaimiento $H\rightarrow ZZ^{*}\rightarrow 4\ell$ a $\sqrt{s} = 13 TeV$ utilizando ATLAS Open Data”*  
+(defendida el 1 de febrero de 2022).
+
+Todo el código fuente de este repositorio se distribuye bajo los términos de la  
+**Licencia Pública de la Unión Europea (EUPL) v1.1 o posterior**.
+
+De acuerdo con la EUPL:
+- Se permite el uso, reproducción, modificación y redistribución del código.
+- Toda redistribución debe mantenerse bajo la misma licencia (EUPL v1.1 o posterior), salvo en los casos de compatibilidad previstos por la licencia.
+- Deben conservarse todos los avisos de copyright y licencia.
+- El software se proporciona *“tal cual”*, sin garantías de ningún tipo.
