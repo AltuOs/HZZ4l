@@ -2,7 +2,7 @@
 
 Este repositorio documenta, preserva y facilita el acceso a la propuesta de optimización desarrollada en el marco de la tesis de licenciatura titulada “Propuesta de optimización al análisis computacional del bosón de Higgs en el canal de decaimiento $H\rightarrow ZZ^{*}\rightarrow 4\ell$ a $\sqrt{s} = 13 TeV$ utilizando ATLAS Open Data”, defendida el **1 de febrero de 2022** como requisito para optar al título de **Licenciado en Física**.
 
-El trabajo, así como las modificaciones, adaptaciones y mejoras incluidas en este repositorio, fue realizado por el **Br. Oscar Alejandro Altuve Pabon**, estudiante de la **Universidad de Los Andes (ULA)** en Mérida, Venezuela, adscrito al **Departamento de Física**, bajo la supervisión del **Dr. Arturo Sánchez (Colaboración de ATLAS e INAIT.AI)** y el **Prof. Alberto Patiño (ULA)**.
+El trabajo, así como las modificaciones, adaptaciones y mejoras incluidas en este repositorio, fue realizado por el **Br. Oscar Altuve**, estudiante de la **Universidad de Los Andes (ULA)** en Mérida, Venezuela, adscrito al **Departamento de Física**, bajo la supervisión del **Dr. Arturo Sánchez (Colaboración de ATLAS e INAIT.AI)** y el **Prof. Alberto Patiño (ULA)**.
 
 ---
 ### Resumen
