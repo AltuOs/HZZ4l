@@ -1,0 +1,26 @@
+{
+  "name": "ROOT C++ & Jupyter",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/bin/python3"
+      },
+      "extensions": [
+        "ms-toolsai.jupyter",              // Soporte para Notebooks
+        "ms-vscode.cpptools-extension-pack", // El Pack completo de C++
+        "ms-python.python",                // Soporte base de Python
+        "ms-vscode.cmake-tools",            // (Opcional) A veces el pack no lo activa solo
+        "albertopdrf.root-file-viewer"
+      ]
+    }
+  },
+  // Opcional: Comando que corre una vez se crea el contenedor
+  "postCreateCommand": "echo 'Entorno ROOT listo'",
+  
+  // Ejecutar como root (común en contenedores científicos simples)
+  // O puedes crear un usuario 'vscode' si prefieres más seguridad
+  "remoteUser": "root"
+}
